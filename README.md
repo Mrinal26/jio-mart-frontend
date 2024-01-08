@@ -13,28 +13,12 @@ This project was built during our construct week at Masai School. It was built b
 
 
 
-https://jiomart-com-rct-201-shashikantrupin.vercel.app/
+https://jio-mart-frontend.vercel.app/
 
+*Backend url:*
 
-## Presentation Video
+https://tasty-undershirt-hen.cyclic.app/
 
-https://drive.google.com/file/d/1CvqJYCjHZGaIMumc6OYKy9TJ9S913F3H/view?usp=sharing
-
-## GitHub Repoitory Link
-
-
-https://github.com/sachin2398/jio-mart
-
-
-
-## ✍ Contributors
-
-- [@Sachin](https://github.com/sachin2398)
-- [@Satyam](https://github.com/satyam46020)
-- [@Shashikant](https://github.com/shashikantRupin)
-- [@Arti](https://github.com/artisonii)
-- [@Mrinal](http://Github.com/Mrinal26)
-- [@Sunil](https://github.com/Sunil8090)
 ## 🛠 Built with 
 
 Technologies used in the project:
